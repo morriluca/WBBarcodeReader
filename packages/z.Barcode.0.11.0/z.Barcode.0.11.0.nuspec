@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>z.Barcode</id>
+    <version>0.11.0</version>
+    <title>z.Barcode.net for .net 4.0</title>
+    <authors>tofilagman</authors>
+    <owners>tofilagman</owners>
+    <iconUrl>https://www.gravatar.com/avatar/fc532ccf021d86fcafbb8db5a42d46d9?=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Barcode Helper and Extension</description>
+    <summary />
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>application app utility helper extension Barcode</tags>
+    <dependencies />
+  </metadata>
+</package>

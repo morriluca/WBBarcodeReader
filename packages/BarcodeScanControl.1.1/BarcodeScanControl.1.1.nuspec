@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BarcodeScanControl</id>
+    <version>1.1</version>
+    <title>Scan QR Code Control</title>
+    <authors>akmittal</authors>
+    <owners>akmittal</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The barcode scan control can be used for scanning QR control using webcam of any device supporting Windows 10. Once the code is scanned successfully , the result would be available as text string.
+The control has dependency of using ZXing.Net NuGet package as the control utilizes ZXing to actually scan the code and provide the result.</description>
+    <summary>Scan QR code with a Windows Tab device running Windows 10</summary>
+    <releaseNotes>The user needs to define the template of Capure Element as property VideoCaptureTemplateName needs to be defined.</releaseNotes>
+    <language />
+    <dependencies>
+      <dependency id="ZXing.Net" version="0.14.0.1" />
+    </dependencies>
+  </metadata>
+</package>

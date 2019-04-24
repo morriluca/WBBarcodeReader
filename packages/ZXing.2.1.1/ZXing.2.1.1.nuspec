@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ZXing</id>
+    <version>2.1.1</version>
+    <title>ZXing Barcode Scanning Library .Net Port</title>
+    <authors>ZXing Project</authors>
+    <owners>ZXing Project</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>http://zxingnet.codeplex.com/</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=zxingnet&amp;DownloadId=371353</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>** There is now an official port of this project on codeplex http://zxingnet.codeplex.com/ ** 
+
+Please use the ZXing.Net package for further updates</description>
+    <summary />
+    <releaseNotes>- package deprecated</releaseNotes>
+    <tags>zxing barcode 1d 2d upc-a upc-e ean-8 ean-13 qr code 39 128</tags>
+  </metadata>
+</package>

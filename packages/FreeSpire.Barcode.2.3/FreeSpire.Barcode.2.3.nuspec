@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FreeSpire.Barcode</id>
+    <version>2.3</version>
+    <title>Free Spire.Barcode</title>
+    <authors>E-iceblue</authors>
+    <owners>E-iceblue</owners>
+    <licenseUrl>https://www.e-iceblue.com/Download/download-barcode-for-net.html</licenseUrl>
+    <projectUrl>https://www.e-iceblue.com/Introduce/barcode-for-net-introduce.html</projectUrl>
+    <iconUrl>https://www.e-iceblue.com/images/Introduce/FreeProducts/FBC.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Free Spire.Barcode for .NET is a FREE and professional barcode component specially designed for .NET developers (C#, VB.NET, ASP.NET) to generate, read 1D &amp; 2D barcodes. Developers and programmers can use Spire.BarCode to add Enterprise-Level barcode formats to their .net applications (ASP.NET, WinForms and Web Service) quickly and easily.
+
+Free Spire.Barcode for .NET provides a very easy way to integrate barcode processing. With just one line of code to create, read 1D &amp; 2D barcode, Spire.BarCode supports variable common image formats, such as Bitmap, JPG, PNG, EMF, TIFF, GIF and WMF.
+
+Note: Free Spire.Barcode is a community edition of Spire.Barcode which supports to work with many more barcode types. If free Spire.Barcode does not fulfill your needs, please upgrade to the paid version of Spire.Barcode.</description>
+    <summary>Spire.Barcode for .NET is a free and professional barcode component which enables you to generate and read 1D &amp; 2D barcodes.</summary>
+    <copyright>Copyright © 2018 e-iceblue. All Rights Reserved.</copyright>
+    <language>en-US</language>
+    <tags>C# VB.NET Barcode 1D 2D code</tags>
+  </metadata>
+</package>
