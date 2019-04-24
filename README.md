@@ -1,2 +1,3 @@
 # WBBarcodeReader
-WebCam Barcode Reader
+User your WebCam to simulate Barcode Reader
+
